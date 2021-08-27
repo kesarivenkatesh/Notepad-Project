@@ -1,0 +1,34 @@
+Help
+--------
+
+1.How To Save A File
+----------------------------
+    *Go to File > SaveAs (if you have not saved atleast once)
+    *Go to File > Save (if already it is saved once)
+
+2.How to Open a File
+---------------------------
+    *Go to File > Open
+    * A Dialog Box appears on the screen.
+    * Select the File you want to open.
+    *Click on Open.
+
+4.How to Cut The Selected Text
+-----------------------------------------
+     *First select the Text you want to Cut.
+     *Go to Edit > Cut
+
+5.How to Copy The Selected Text
+-----------------------------------------
+     *First select the Text you want to Copy.
+     *Go to Edit > Copy
+
+6.How to Paste the Cut text / Copy Text
+---------------------------------------------------
+    *First place the cursor you want the text to be pasted.
+    *Go to Edit > Paste
+
+7.How to Close
+---------------------
+    *You can close by clicking into mark on top-right corner
+    *Or by File > Close.  
